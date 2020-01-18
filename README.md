@@ -1,2 +1,5 @@
-# mynote
-[Vim实用技巧笔记](https://github.com/cloudju/mynote/blob/master/Vim实用技巧笔记.md))))
+读书计划
+01. scrum
+02. 机器学习实践
+03. 如何阅读一本书
+04. vim
